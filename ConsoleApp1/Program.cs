@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Ovo je prva vježba!");
+            Console.WriteLine("Hello world!");
         }
     }
 }
