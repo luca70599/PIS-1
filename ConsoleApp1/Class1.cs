@@ -8,5 +8,8 @@ namespace ConsoleApp1
 {
     class Class1
     {
+        void b(){}
     }
 }
+
+//dodana prazna metoda b, u VS je pod nazivom a
