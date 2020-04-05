@@ -12,6 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Ovo je prva vježba!");
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Ovo je moja modifikacija koda");
         }
     }
 }
+
+//Console.WriteLine("Ovo je moja modifikacija koda"); dodao MarioM1914
